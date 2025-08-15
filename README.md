@@ -8,11 +8,14 @@
 ---
 
 ## ⚡ About Me
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0D0D0D?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0D0D0D?style=for-the-badge)](https://tinyurl.com/nikhithars-portfoliowebsite)
 
 
 I’m a **Computer Science undergrad** who blends **UI/UX design, frontend development, and AI** to craft experiences that people *actually* enjoy using.  
 My vibe? ✨ Dark mode everything, smooth animations, and just enough flair to make it pop.
+
+Built with ❤️ using **[Lovable](https://lovable.dev)** — an AI-powered web builder that helped bring my vision to life faster than ever.
+
 
 ---
 

@@ -1,73 +1,83 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌌 Nikhitha R S – My Digital Playground 🚀
 
-**URL**: https://lovable.dev/projects/b15f0691-1101-4e5e-8328-56e790b81ca9
+![Hero Banner](./banner.gif) <!-- Replace with your GIF/banner image -->
 
-## How can I edit this code?
+> _"Designing intuitive experiences, building impactful solutions."_ 💜
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ⚡ About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0D0D0D?style=for-the-badge)](https://your-portfolio-link.com)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b15f0691-1101-4e5e-8328-56e790b81ca9) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+I’m a **Computer Science undergrad** who blends **UI/UX design, frontend development, and AI** to craft experiences that people *actually* enjoy using.  
+My vibe? ✨ Dark mode everything, smooth animations, and just enough flair to make it pop.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🖤 Features of My Portfolio
+✨ **Dark & Aesthetic** – deep black, glowing purple + teal accents  
+🎬 **Cinematic Hero** – makes a strong first impression  
+🖼 **Interactive Project Gallery** – hover, scroll, click, wow  
+📱 **Responsive Design** – looks gorgeous on any screen  
+🎨 **Micro-interactions** – because details matter  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-ff3366?style=for-the-badge&logo=framer&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Quick Start
+```bash
+# Clone the repo
+git clone https://github.com/your-username/portfolio.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Enter the folder
+cd portfolio
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start dev server
 npm run dev
-```
+````
 
-**Edit a file directly in GitHub**
+> 🍕 Pro Tip: Good code happens with snacks + lo-fi beats.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 💎 Featured Projects
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+| Preview | Project                          | Tech Stack                       |
+| ------- | -------------------------------- | -------------------------------- |
+| 🏦      | **BankTalk AI Chatbot UI**       | Next.js, Tailwind, Framer Motion |
+| 🐾      | **AI-Powered Animal Rescue App** | React Native, Firebase, AI APIs  |
+| ▶️      | **YouTube UI Clone**             | Flutter, Dart                    |
+| ⚙️      | **CI/CD DevOps Guide**           | GitHub Actions, ArgoCD           |
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📬 Let’s Connect
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nikhithars20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nikhithars)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/NikhithaRS)
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/b15f0691-1101-4e5e-8328-56e790b81ca9) and click on Share -> Publish.
+## 🧃 Fun Fact
 
-## Can I connect a custom domain to my Lovable project?
+Most of my best ideas show up at **2 AM** — the night shift is my creative mode.🌙
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)

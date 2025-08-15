@@ -20,11 +20,12 @@ const ProjectsSection = () => {
       color: "bg-accent/10 border-accent/20"
     },
     {
-      title: "Modular Yoga Session App",
-      description: "Smart yoga mat companion app syncing poses, audio, and images dynamically in Flutter.",
-      icon: <Activity className="w-6 h-6" />,
-      tags: ["Flutter", "Dart", "Real-time Sync", "Mobile"],
-      color: "bg-primary-glow/10 border-primary-glow/20"
+      title: "FinBuddy AI Chatbot",
+      description: "AI-powered financial assistant helping users with budgeting, expense tracking, and financial advice.",
+      icon: <Brain className="w-6 h-6" />,
+      tags: ["AI/ML", "Chatbot", "Finance", "API Integration"],
+      color: "bg-primary-glow/10 border-primary-glow/20",
+      github: "https://github.com/NikhithaRS/finbuddy.git"
     },
     {
       title: "YouTube UI Clone (Flutter)",

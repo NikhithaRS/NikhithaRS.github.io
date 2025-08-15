@@ -4,11 +4,6 @@ import { Heart, Code, Palette, Brain } from "lucide-react";
 const AboutSection = () => {
   const highlights = [
     {
-      icon: <Palette className="w-6 h-6" />,
-      title: "UI/UX Design",
-      description: "Creating intuitive and beautiful interfaces that users love"
-    },
-    {
       icon: <Code className="w-6 h-6" />,
       title: "Frontend Development", 
       description: "Building responsive, interactive web applications"
@@ -20,8 +15,13 @@ const AboutSection = () => {
     },
     {
       icon: <Heart className="w-6 h-6" />,
-      title: "Human-Centered",
-      description: "Technology that feels natural and empowering"
+      title: "Open Source Contributor",
+      description: "Active contributor to open source projects and hackathon participant"
+    },
+    {
+      icon: <Palette className="w-6 h-6" />,
+      title: "Problem Solver",
+      description: "Passionate about solving real-world challenges through technology"
     }
   ];
 
@@ -40,11 +40,22 @@ const AboutSection = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a passionate Computer Science undergraduate specializing in <span className="text-primary font-semibold">UI/UX design, frontend development, and AI-powered solutions</span>. From designing chatbot interfaces to building mobile and web apps, I love turning ideas into polished, interactive experiences.
+              I'm a passionate Computer Science undergraduate specializing in <span className="text-primary font-semibold">frontend development and AI-powered solutions</span>. As an <span className="text-primary font-semibold">active open source contributor</span>, I love collaborating on projects that make a difference and participating in hackathons to solve real-world challenges.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              When I'm not designing or coding, you'll find me exploring design trends, participating in hackathons, or learning new tools to push my creative boundaries. I'm driven by the challenge of making complex technology feel simple and accessible.
+              When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or participating in hackathons. I'm driven by the challenge of building innovative solutions that have a positive impact on people's lives.
             </p>
+            <div className="flex flex-wrap gap-4 mt-6">
+              <a href="https://github.com/NikhithaRS" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
+                GitHub →
+              </a>
+              <a href="https://www.linkedin.com/in/nikhithars" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
+                LinkedIn →
+              </a>
+              <a href="https://tinyurl.com/Nikhitha-R-S" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
+                Resume →
+              </a>
+            </div>
           </div>
 
           <div className="grid sm:grid-cols-2 gap-4">

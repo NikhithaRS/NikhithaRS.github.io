@@ -46,12 +46,6 @@ const AboutSection = () => {
               When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or participating in hackathons. I'm driven by the challenge of building innovative solutions that have a positive impact on people's lives.
             </p>
             <div className="flex flex-wrap gap-4 mt-6">
-              <a href="https://github.com/NikhithaRS" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
-                GitHub →
-              </a>
-              <a href="https://www.linkedin.com/in/nikhithars" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
-                LinkedIn →
-              </a>
               <a href="https://tinyurl.com/Nikhitha-R-S" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-glow transition-colors font-medium">
                 Resume →
               </a>

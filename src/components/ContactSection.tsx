@@ -15,14 +15,14 @@ const ContactSection = () => {
       icon: <Linkedin className="w-6 h-6" />,
       label: "LinkedIn",
       value: "Connect with me",
-      href: "https://linkedin.com/in/nikhitha-rs",
+      href: "https://www.linkedin.com/in/nikhithars",
       description: "Professional networking"
     },
     {
       icon: <Github className="w-6 h-6" />,
       label: "GitHub",
       value: "View my code",
-      href: "https://github.com/nikhitha-rs",
+      href: "https://github.com/NikhithaRS",
       description: "Explore my repositories"
     }
   ];

@@ -129,7 +129,6 @@
     background: hsl(var(--accent));
   }
 }
-}
 
 @layer base {
   * {
